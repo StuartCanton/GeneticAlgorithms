@@ -1,5 +1,8 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <v-app>
+      <Shakespere />
+    </v-app>
+    
   </div>
 </template>
